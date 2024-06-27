@@ -1,0 +1,44 @@
+Translation issue:
+	Sequence <05 Stripes Horizontal - right up> at , audio track 2: Effect <Internal Channel Volume Stereo> on Clip <05 Stripes Horizontal - right up> not translated.
+Translation issue:
+	Sequence <06 Stripes Horizontal - right down> at , audio track 2: Effect <Internal Channel Volume Stereo> on Clip <06 Stripes Horizontal - right down> not translated.
+Translation issue:
+	Sequence <07 Stripes Horizontal - left up> at , audio track 2: Effect <Internal Channel Volume Stereo> on Clip <07 Stripes Horizontal - left up> not translated.
+Translation issue:
+	Sequence <08 Stripes Horizontal - left down> at , audio track 2: Effect <Internal Channel Volume Stereo> on Clip <08 Stripes Horizontal - left down> not translated.
+Translation issue:
+	Sequence <11 Stripes Horizontal - diagonal> at , audio track 2: Effect <Internal Channel Volume Stereo> on Clip <11 Stripes Horizontal - diagonal> not translated.
+Translation issue:
+	Sequence <12 Stripes Horizontal - diagonal> at , audio track 2: Effect <Internal Channel Volume Stereo> on Clip <12 Stripes Horizontal - diagonal> not translated.
+Translation issue:
+	Sequence <MXF> at , video track 2: Effect <Warp Stabilizer> on Clip <JAo9936.MP4> not translated.
+Translation issue:
+	Sequence <MXF> at , video track 3: Effect <Graphic Parameters> on Clip <Mister Horse Map - Digital 1> not translated.
+Translation issue:
+	Sequence <MXF> at , video track 3: Effect <Mirror> on Clip <Graphic> not translated.
+Translation issue:
+	Sequence <MXF> at , video track 3: Effect <Mirror> on Clip <Mister Horse Map - Digital 1> not translated.
+Translation issue:
+	Sequence <MXF> at , video track 3: Effect <Transform> on Clip <Graphic> not translated.
+Translation issue:
+	Sequence <MXF> at , video track 3: Effect <Transform> on Clip <Mister Horse Map - Digital 1> not translated.
+Translation issue:
+	Sequence <MXF> at , video track 4: Effect <Alpha Adjust> on Clip <Graphic> not translated.
+Translation issue:
+	Sequence <MXF> at , video track 4: Effect <Emboss> on Clip <Mister Horse Map - Digital 1> not translated.
+Translation issue:
+	Sequence <MXF> at , video track 4: Effect <Graphic Parameters> on Clip <Mister Horse Map - Digital 1> not translated.
+Translation issue:
+	Sequence <MXF> at , video track 4: Effect <Tint> on Clip <Mister Horse Map - Digital 1> not translated.
+Translation issue:
+	Sequence <MXF> at , video track 4: Effect <Transform> on Clip <Graphic> not translated.
+Translation issue:
+	Sequence <MXF> at , video track 4: Effect <Transform> on Clip <Mister Horse Map - Digital 1> not translated.
+Translation issue:
+	Sequence <MXF> at , audio track 1: Effect <7f446972-835b-422e-a8a3-d64028839ba2> on Clip <JAo9911.MP4> not translated.
+Translation issue:
+	Sequence <MXF> at , audio track 1: Effect <Internal Channel Volume Stereo> on Clip <JAo9911.MP4> not translated.
+Translation issue:
+	Sequence <MXF> at , audio track 3: Effect <c6762838-e451-4d22-9c90-b0eaa734605a> on Clip <main_audio.output.wav> not translated.
+Translation issue:
+	Sequence <MXF> at , audio track 4: Effect <Internal Channel Volume Stereo> on Clip <Soft Glitchy Hiss 02.wav> not translated.
